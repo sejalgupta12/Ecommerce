@@ -1,0 +1,23 @@
+footer {
+  margin-top: 10vmax;
+  padding: 2vmax;
+  background-color: rgb(34, 33, 33);
+  color: white;
+  align-items: center;
+}
+
+.midFooter {  
+  text-align: center;
+}
+
+.midFooter > h1 {
+  font-size: 3.5vmax;
+  font-family: "Roboto";
+  color: #eb4034;
+}
+.midFooter > p {
+  max-width: 60%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 1vmax auto;
+}
+
